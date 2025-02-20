@@ -14,4 +14,4 @@
 ---
 
 ## 🚀 Demo  
-🔗 **Live Demo**: [Click Here](https://rajat119.github.io/)  
+🔗 **Live Demo**: [Click Here](https://rajat119.github.io/Image_viewer_task/)  
